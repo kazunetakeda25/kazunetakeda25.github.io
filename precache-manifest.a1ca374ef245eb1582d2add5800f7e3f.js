@@ -17,7 +17,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b7ed399ef1e96f31eafafade6c426c51",
-    "url": "/assets/font/kabel.otf"
+    "url": "/assets/font/kabel.ttf"
   },
   {
     "revision": "a35650d8f1749ddb7bb67e257b267872",
@@ -281,6 +281,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b7ed399ef1e96f31eafafade6c426c51",
-    "url": "/static/media/kabel.9b57dfa0.otf"
+    "url": "/static/media/kabel.9b57dfa0.ttf"
   }
 ]);
