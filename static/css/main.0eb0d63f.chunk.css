@@ -49,6 +49,9 @@ img[alt="huamn intro window tab"] {
     border-radius: 0;
     margin-left: -2px;
 }
+.hc.cptr.br-4:first-child {
+  margin-left: 0;
+}
 .hc.pad-0-0-0-30.ccy {
     padding: 0 !important;
 }
