@@ -11,13 +11,12 @@
     ],
     "employment": [
         {
-            "position": "Blockchain Developer",
+            "position": "Freelance Blockchain Developer",
             "organization": "UPWORK INC.",
             "location": "San Francisco, CA, United States",
             "start time": "Aug 2017",
             "end time": "Jul 2020",
             "description": [
-                "- Area of Participants",
                 "Sealed-Bid Auction (Ethereum, Polygon)",
                 "KingCash.io",
                 "Ethermine Bot, Eth Pool",
@@ -42,6 +41,100 @@
             ],
             "link": "https://www.upwork.com/freelancers/~01f3ecc44283d7a141?viewMode=1",
             "logo": "assets/image/experience/employment/upwork.png"
+        }, 
+        {
+            "position": "Blockchain Developer",
+            "organization": "SELF-EMPLOYED",
+            "location": "Chiyoda City, Tokyo, Japan",
+            "start time": "Jul 2020",
+            "end time": "Present",
+            "description": [
+                "Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.",
+                "Optimized the smart contract code, removed unnecessary parts and increased the efficiency by 15%, using the library functionalities of the solidity.",
+                "Self-studied famous Defi projects such as Uniswap and Aave, created my own protocols based on both projects.",
+                "Worked on high-potential projects like Cardano and Solana Serum to understand Cardano and Solana network structure compared to Ethereum.",
+                "Aave Health Checker (Based on Aave)",
+                "KTSwap (Based on Uniswap v2)",
+                "KTSerum (Based on Solana Serum)",
+                "Alonzo Testnet Contract Test (Cardano)",
+                "Cardano Workshop (Discord Project – Open Source)",
+                "CNFTs (By Cardano CLI)"
+            ],
+            "tags": [
+                "Past", 
+                "Ethereum", 
+                "Cardano",
+                "Solana",
+                "Polygon",
+                "Defi",
+                "NFT"
+            ],
+            "skills": [
+                "Smart Contracts", 
+                "Solidity", 
+                "Rust", 
+                "Haskell", 
+                "Plutus", 
+                "React.js",
+                "Express.js",
+                "Node.js"
+            ],
+            "link": "https://kazunetakeda25.github.io/",
+            "logo": "assets/image/experience/employment/self-employed.png"
+        },
+        {
+            "position": "Smart Contracts Developer",
+            "organization": "BANCOR NETWORK",
+            "location": "Zug, CH Switzerland",
+            "start time": "Apr 2021",
+            "end time": "Jun 2021",
+            "description": [
+                "Optimized, maintained protocol smart contracts & webapp.",
+                "bancorprotocol/webapp-v2",
+                "bancorprotocol/contracts-solidity"
+            ],
+            "tags": [
+                "Past", 
+                "Ethereum",
+                "Defi"
+            ],
+            "skills": [
+                "Smart Contracts", 
+                "Solidity", 
+                "React.js",
+                "Express.js",
+                "Node.js"
+            ],
+            "link": "https://bancor.network/",
+            "logo": "assets/image/experience/employment/bancor.png"
+        }, 
+        {
+            "position": "Smart Contract Developer",
+            "organization": "DEFI PRIME",
+            "location": "Los Angeles, CA United States",
+            "start time": "Mar 2019",
+            "end time": "Feb 2020",
+            "description": [
+                "Defi Ecosystem Development",
+                "Participated in Token Lists development. (Frontend and Backend)",
+                "Developed Prime Ledger smart contracts",
+                "Optimized Prime Ledger smart contract code and efficiency."
+            ],
+            "tags": [
+                "Past", 
+                "Ethereum", 
+                "Polygon",
+                "Defi"
+            ],
+            "skills": [
+                "Smart Contracts", 
+                "Solidity",  
+                "React.js",
+                "Express.js",
+                "Node.js"
+            ],
+            "link": "https://defiprime.com/",
+            "logo": "assets/image/experience/employment/defiprime.png"
         }
     ],
     "projects": [

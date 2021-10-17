@@ -56,3 +56,9 @@ img[alt="huamn intro window tab"] {
   padding: 4px 20px 4px 20px;
   font-size: 14px;;
 }
+.spacing-5-5.font-size-15.tc.s.p.wf {
+  display: none;
+}
+.hf.p-10-20.bg-255-255-255-102-hv.s.r.wf.cl.ccy {
+  align-items: flex-start;
+}
