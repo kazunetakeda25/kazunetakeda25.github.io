@@ -10086,7 +10086,7 @@
                 A([
                   c(Ns, A([bf(Cf(25)), _b(cv(0)), Fb]), {
                     bV: 'logo',
-                    cQ: 'assets/image/home/logo.png'
+                    cQ: 'assets/image/home/logo-transparent.png'
                   })
                 ])
               )
