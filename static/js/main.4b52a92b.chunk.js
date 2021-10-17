@@ -10057,12 +10057,14 @@
             var t,
               e = { d_: n.aa, Y: n.Y },
               a = o(
-                Hv,
-                '',
-                As(function () {
-                  return 'request access to: '
-                }),
-                sv(wi)
+                qs,
+                z,
+                A([
+                  c(Ns, A([bf(Cf(25)), _b(cv(0)), Fb]), {
+                    bV: 'logo',
+                    cQ: 'assets/image/home/logo-inverted.png'
+                  })
+                ])
               ),
               u = o(Hv, '', dv('Home'), sv(cv(0))),
               i = o(Hv, '', dv('Experience'), sv(cv(2))),
@@ -10074,7 +10076,7 @@
                 A([
                   c(Ns, A([bf(Cf(25)), _b(cv(0)), Fb]), {
                     bV: 'logo',
-                    cQ: 'assets/image/home/logo@2x.png'
+                    cQ: 'assets/image/home/logo.png'
                   })
                 ])
               )

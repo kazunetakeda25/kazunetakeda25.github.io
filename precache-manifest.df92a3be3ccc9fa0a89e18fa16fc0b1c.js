@@ -185,7 +185,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "27bec1ed8c886a40b0efe8f86c82ae54",
-    "url": "/assets/image/home/logo@2x.png"
+    "url": "/assets/image/home/logo.png"
   },
   {
     "revision": "e9602311347d6ed9ef2573b6de12fa41",
@@ -193,7 +193,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "e08c714d7301278bb1791afd78a6fef2",
-    "url": "/assets/image/home/name@2x.png"
+    "url": "/assets/image/home/name.png"
   },
   {
     "revision": "0f11e0780d2e902e386f500f80ef70fa",
