@@ -1893,6 +1893,12 @@
                   return Vt(5)
                 case 'Polygon':
                   return Vt(6)
+                case 'Defi':
+                  return Vt(7)
+                case 'NFT':
+                  return Vt(8)
+                case 'Other':
+                  return Vt(9)
                 default:
                   return je('Unknown tag: ' + n)
               }
