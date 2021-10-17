@@ -8108,8 +8108,14 @@
                 return 'Solana'
               case 5:
                 return 'Polkadot'
-              default:
+              case 6:
                 return 'Polygon'
+              case 7:
+                return 'Defi'
+              case 8:
+                return 'NFT'
+              default:
+                return 'Other'
             }
           },
           Cb = function (n) {
@@ -9062,7 +9068,17 @@
                   wd,
                   A([
                     w('Polkadot', Gr(5)),
-                    w('Polygon', Gr(6))
+                    w('Polygon', Gr(6)),
+                    w('Defi', Gr(7)),
+                  ]),
+                  n,
+                  r
+                ),
+                o(
+                  wd,
+                  A([
+                    w('NFT', Gr(8)),
+                    w('Other', Gr(9))
                   ]),
                   n,
                   r
