@@ -2788,9 +2788,9 @@
           },
           Ya = {
             dt: Ka('#000'),
-            bG: Ka('#61AEEE'),
+            bG: Ka('#506DFA'),
             bT: Ka('#3498DB'),
-            b5: Ka('#A9B0BD'),
+            b5: Ka('#FFFFFF'),
             ed: Ka('#f8f9fa'),
             ee: Ka('#ebebeb'),
             ef: Ka('#dee2e6'),
@@ -2805,7 +2805,7 @@
             e4: Ka('#fd7e14'),
             ff: Ka('#e83e8c'),
             fj: Ka('#6f42c1'),
-            cE: Ka('#E06C75'),
+            cE: Ka('#FF5757'),
             fL: Ka('#20c997'),
             q: Ka('#fff'),
             c6: Ka('#C89463')
@@ -9798,7 +9798,7 @@
             return c(
               Rs,
               z,
-              A([bv(n), c(Md, A([Ti(o(Mf, 97, 174, 238))]), bv(' .chain'))])
+              A([bv(n), c(Md, A([Ti(o(Mf, 97, 174, 238))]), bv('.crypto'))])
             )
           },
           vv = as(2),
@@ -10151,11 +10151,11 @@
               f1: (function (n) {
                 switch (n.N.$) {
                   case 0:
-                    return 'Kazune Takeda'
+                    return 'Home | Kazune Takeda'
                   case 1:
-                    return "Shan's Education"
+                    return "Education | Kazune Takeda"
                   case 2:
-                    return "Shan's Experience"
+                    return "Experience | Kazune Takeda"
                   default:
                     return 'Not Found'
                 }
