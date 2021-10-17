@@ -36,3 +36,12 @@ img.height-px-25px {
 .hf.box-0px0px0px0px0-0-0-255 {
     box-shadow: 0px 0px 16px 8px rgb(0 0 0 / 10%);
 }
+img[alt="logo"],
+img[alt="code intro"], 
+img[alt="huamn intro window tab"] {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+}
