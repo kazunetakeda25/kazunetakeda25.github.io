@@ -1,0 +1,970 @@
+{
+    "education": [
+        {
+            "name": "Carnegie Mellon University",
+            "logo": "assets/image/experience/education/cmu logo.png",
+            "location": "Pittsburgh, PA",
+            "degree": "Masters of Entertainment Technology",
+            "length": "Sep 2021 - May 2023",
+            "cs courses": "Building Virtual Worlds",
+            "film courses": "Visual Story, Improvasational Acting"
+        },
+        {
+            "name": "Mount Holyoke College",
+            "logo": "assets/image/experience/education/MHC logo.png",
+            "location": "South Hadley, MA",
+            "degree": "Bachelor of Arts",
+            "length": "Sep 2017 - May 2021",
+            "majors": "Computer Science and Interactive Media",
+            "cs courses": "Algorithms, Operating Systems, Advanced Data Structures, Modeling and Simulation, Computing System, Advanced Problem Solving and OOP, Multivariable Calculus, Discrete Mathematics",
+            "film courses": "History of World Cinema, Film Theory: Cinema/City",
+            "honors": "Mildred L Sanderson Prize for Math Excellence, Louise Appleton Career Development Fund for independent research, Sarah Williston Scholar, Art and Technology Microgrant"
+        },
+        {
+            "name": "Budapest University of Technology and Economics",
+            "logo": "assets/image/experience/education/BME logo.png",
+            "location": "Budapest, Hungary",
+            "length": "Jan 2020 - May 2020",
+            "relation": "Study Abroad - Spring 2020",
+            "cs courses": "Computer Graphics, Mobile Software Development, User Experience Design",
+            "film courses": "Budapest through Cinema, People, and Streets",
+            "honors": "Laurel Fellowship"
+        },
+        {
+            "name": "Hampshire College",
+            "logo": "assets/image/experience/education/hampshire logo.png",
+            "location": "Amherst, MA",
+            "relation": "Five College Consortium Cross Registration",
+            "cs courses": "Twitch.tv Game Development, Interdisciplinary Game Studio, Computer Animation I, Women in Game Programming"
+        },
+        {
+            "name": "Amherst College",
+            "logo": "assets/image/experience/education/amherst logo.png",
+            "location": "Amherst, MA",
+            "relation": "Five College Consortium Cross Registration",
+            "film courses": "Documentary Production"
+        },
+        {
+            "name": "University of Massachusetts - Amherst",
+            "logo": "assets/image/experience/education/UMass logo.png",
+            "location": "Amherst, MA",
+            "relation": "Five College Consortium Cross Registration",
+            "film courses": "Introduction to History of Animation"
+        },
+        {
+            "name": "Smith College",
+            "logo": "assets/image/experience/education/smith logo.png",
+            "location": "Northampton, MA",
+            "relation": "Five College Consortium Cross Registration"
+        },
+        {
+            "name": "University of California - Los Angeles",
+            "logo": "assets/image/experience/education/UCLA logo.jpeg",
+            "length": "Jun 2018 - Aug 2018",
+            "location": "Los Angeles, CA",
+            "relation": "Summer 2018",
+            "film courses": "Digital Cinematography"
+        }
+    ],
+    "employment": [
+        {
+            "position": "Mobile Software Engineer Intern",
+            "organization": "Psychic VR Lab",
+            "location": "Tokyo, Japan",
+            "start time": "May 2021",
+            "end time": "Jul 2021",
+            "description": [
+                "Prototyped their STYLY website into an iPad app that allows users to build and preview AR/VR worlds",
+                "Integrated runtime transform handler, camera touch control and save/load system for each world"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://styly.cc/",
+            "logo": "assets/image/experience/employment/styly.png"
+        },
+        {
+            "position": "XR Feature Intern",
+            "organization": "Unity Technologies",
+            "location": "Bellevue, WA",
+            "start time": "Jun 2020",
+            "end time": "Sep 2020",
+            "description": [
+                "Implemented and shipped samples with new augmented reality features in the Unity engine with C#",
+                "Integrated ARCore SDK features in C++ and implement runtime unit tests in AR Foundation",
+                "Participated in design reviews, code reviews, bug fixing, user forums, and feature planning"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "CSharp",
+                "CPP",
+                "Unity"
+            ],
+            "link": "https://github.com/Unity-Technologies/arfoundation-samples",
+            "logo": "assets/image/experience/employment/xr_intern.png"
+        },
+        {
+            "position": "Police Use of Force Research Assistant",
+            "organization": "B.E.A.R.S Lab",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2019",
+            "end time": "Mar 2020",
+            "description": [
+                "Maintained and modified Unity VR programmes in C# to examine racial bias in police officers",
+                "Administered VR protocols to participants and monitor automatic research data collection",
+                "Streamlined pupil diameters in Java and XML for efficient big data evaluation on eye tracking"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "Java",
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://thebearslab.com",
+            "logo": "assets/image/experience/employment/bears.png"
+        },
+        {
+            "position": "Women in Game Programming Teaching Assistant",
+            "organization": "Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Sep 2019",
+            "end time": "Dec 2019",
+            "description": [
+                "Mentored 20 beginning game programming students with code review and debugging help in C#",
+                "Analyzed the issues facing women and other underrepresented groups in the game industry"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "http://irafay.com/classes/CS181/",
+            "logo": "assets/image/experience/employment/game_ta.png"
+        },
+        {
+            "position": "Mentoring Teaching Assistant",
+            "organization": "Computer Science Department at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2019",
+            "end time": "Dec 2019",
+            "description": [
+                "Mentored 3 students in introductory CS courses with bi-weekly check-ins and code reviews"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science"
+            ],
+            "skills": [
+                "Java"
+            ],
+            "link": "https://www.mtholyoke.edu/media/gigas-and-megas-mentor-program-launched",
+            "logo": "assets/image/experience/employment/mage.png"
+        },
+        {
+            "position": "Game Development Camp Counselor",
+            "organization": "Girls Make Games",
+            "location": "San Mateo, CA",
+            "start time": "Jul 2019",
+            "end time": "Jul 2019",
+            "description": [
+                "Trained 21 young girls (12-18 years old) on game design and programming with Unity for 60 hours",
+                "Supervised field trips and meetings with women game developers from PlayStation and Ubisoft"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://www.ktvu.com/news/417655378-video",
+            "logo": "assets/image/experience/employment/gmg.png"
+        },
+        {
+            "position": "Data Structure Mentor and Grader",
+            "organization": "Computer Science Department at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Jan 2019",
+            "end time": "May 2019",
+            "description": [
+                "Evaluated coding assignments and provided technical critique for 14 students weekly",
+                "Tutored 2 students in Data Structures and improved self-efficacy and interest in computer science"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science"
+            ],
+            "skills": [
+                "Java",
+                "Git"
+            ],
+            "link": "https://www.mtholyoke.edu/media/gigas-and-megas-mentor-program-launched",
+            "logo": "assets/image/experience/employment/mage.png"
+        },
+        {
+            "position": "Social Media Intern",
+            "organization": "FilmPlus LLC",
+            "location": "New York, NY",
+            "start time": "Oct 2018",
+            "end time": "May 2019",
+            "description": [
+                "Researched, analyzed, and promoted Chinese films and filmmakers internationally",
+                "Administered WeChat platform to foster a community for more than 2000 subscribers"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "skills": [
+                "HTML",
+                "Chinese"
+            ],
+            "link": "https://mp.weixin.qq.com/s?__biz=MzI4ODkyNzQ3MA==&mid=2247484982&idx=1&sn=157462e385740f9de70cf853e7858749&chksm=ec37bdb7db4034a1fdc1856249316d21a82497973342a4e1226657ae714c21ac8c503df4e341&token=775913074&lang=zh_CN#rd",
+            "logo": "assets/image/experience/employment/filmllc.png"
+        },
+        {
+            "position": "MEWS Video/Audio Consultant",
+            "organization": "LITS at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2018",
+            "end time": "May 2019",
+            "description": [
+                "Created 8 written and video tutorials and organized 3 workshops on animation, sound design, etc.",
+                "Assisted transfer, capture, and editing for multiple formats of audio and video materials"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Interactive Media"
+            ],
+            "skills": [
+                "AdobePr",
+                "AdobePs",
+                "WordPress"
+            ],
+            "link": "https://commons.mtholyoke.edu/mewsnews/",
+            "logo": "assets/image/experience/employment/mews.png"
+        },
+        {
+            "position": "Chinese Language Tutor",
+            "organization": "Asian Studies at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2017",
+            "end time": "May 2019",
+            "description": [
+                "Offered weekly private Chinese tutoring for 5 students from different culture backgrounds",
+                "Guided and improved students’ pronunciation, writing, and listening competency"
+            ],
+            "tags": [
+                "Past"
+            ],
+            "skills": [
+                "Chinese"
+            ],
+            "link": "https://www.mtholyoke.edu/acad/language-assistant-program",
+            "logo": "assets/image/experience/employment/chinese_tutor.png"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Blanch Menu App",
+            "position": "Project Manager, Programmer",
+            "organization": "Developing Innovative Software at Mount Holyoke College",
+            "location": "Changzhou, China",
+            "start time": "Mar 2021",
+            "end time": "May 2021",
+            "description": [
+                "Propotyped and impletmented a social mobile app for campus dining with Flutter and Dart",
+                "Integrated with Firebase for school email authentication, post database, and administration"
+            ],
+            "skills": [
+                "Flutter",
+                "Dart",
+                "Figma"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "github": "https://github.com/fowle22d/blanch_menu_app",
+            "logo": "assets/image/experience/projects/blanch_menu_app.png"
+        },
+        {
+            "title": "Build my own Shell",
+            "position": "C Programmer",
+            "organization": "Operating Systems at Mount Holyoke College",
+            "location": "Allston, MA",
+            "start time": "Nov 2020",
+            "end time": "Dec 2020",
+            "description": [
+                "Implemented a basic Shell in C on Linux capable of processing built-in commands, such as exit, cd, set, unset, and pwd, and executing external programs in foreground and background with fork and exec",
+                "Tokenized user input char by char to be compatible with special characters and variable substitution and supported arrow keys for history access and tab for auto completion and debugged for memory leak"
+            ],
+            "skills": [
+                "C",
+                "Linux"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science"
+            ],
+            "logo": "assets/image/experience/projects/shell.png"
+        },
+        {
+            "title": "AR Tour Guide",
+            "position": "AR Programmer, Product and UI Designer",
+            "organization": "Independent Studies at Mount Holyoke College",
+            "location": "Allston, MA",
+            "start time": "Aug 2020",
+            "end time": "Oct 2020",
+            "description": [
+                "Prototyped an AR mobile app for self-touring college campus with Unity AR Foundation in C#",
+                "Implemented Image Tracking and prefab matching features upon internship contributions",
+                "Created easily scalable content structure and customized Inspector UI for intuitive user input"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "github": "https://github.com/SHELLEYJ32/ARTourGuideApp",
+            "media": "https://drive.google.com/file/d/1dPduaf5ItzMoBCjWew9pnURzyKo03J0b/view?usp=sharing",
+            "logo": "assets/image/experience/projects/ar_tour_guide.png"
+        },
+        
+        {
+            "title": "Movieous",
+            "position": "Product and UI/UX Designer",
+            "organization": "College + Netflix Creative Jam LIVE with Adobe XD",
+            "location": "Remote",
+            "start time": "Jun 2020",
+            "end time": "Jun 2020",
+            "description": [
+                "Propotyped a communal movie watching desktop app with 35 screens with Adobe XD in 24 hours",
+                "Visualized watchrooms that support viewing films and audio/video/text chat simultaneously"
+            ],
+            "skills": [
+                "AdobeXd"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "link": "https://xd.adobe.com/view/55a2ff27-1eee-4526-826d-fb840d255993-00f1/",
+            "logo": "assets/image/experience/projects/creative_jam.png"
+        },
+        {
+            "title": "TreeHole Project",
+            "position": "Lead Programmer, Product Designer",
+            "organization": "Mobile Software Development at AIT Budapest",
+            "location": "Budapest, HU",
+            "start time": "Apr 2020",
+            "end time": "May 2020",
+            "description": [
+                "Propotyped and impletmented a social media mobile app in Kotlin through Android Studio",
+                "Integrated with Firebase for email authentication, post database, and image storage",
+                "Utilized RecyclerView, CardView, Camera, and LocationManager for real-time location access"
+            ],
+            "skills": [
+                "Kotlin",
+                "AndroidStudio",
+                "AdobeXd"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "media": "https://www.youtube.com/watch?v=FdJxImAoT04",
+            "logo": "assets/image/experience/projects/treehole.png"
+        },
+        {
+            "title": "MHC Equestrian Center VR Documentary",
+            "position": "Director, Videographer, Editor",
+            "organization": "Documentary Production at Amherst College",
+            "location": "Amherst, MA",
+            "start time": "Oct 2019",
+            "end time": "Dec 2019",
+            "description": [
+                "Created a 10-min interactive virtual reality documentary with 360-degree camera",
+                "Interviewed 7 staffs and students and implemented headset tracking in Unity"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "AdobePr"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "media": "https://vimeo.com/427185214",
+            "logo": "assets/image/experience/projects/equestrian.png"
+        },
+        {
+            "title": "Pocket Counselor",
+            "position": "Lead Programmer, Product Designer",
+            "organization": "HackHolyoke at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Nov 2019",
+            "end time": "Nov 2019",
+            "description": [
+                "Propotyped an add-on feature to Google Assistant to help students deal with stress at school through Actions on Google, DialogFlow, and Firebase",
+                "Trained agents to recognize and offer different responses to problems related to schoolwork, relationships, suicidal tendencies, and negative emotions",
+                "Reached 100% improved user experience through live demos with students and faculties in 24 hours"
+            ],
+            "skills": [
+                "JavaScript",
+                "ML"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Computer Science"
+            ],
+            "link": "https://devpost.com/software/pocket-counselor",
+            "logo": "assets/image/experience/projects/pocket_counselor.png"
+        },
+        {
+            "title": "Portfolio Website",
+            "position": "Web Developer, UI/UX designer",
+            "location": "Edmonton, AB, Canada",
+            "start time": "Aug 2019",
+            "end time": "Present",
+            "description": [
+                "Construct front-end framework in functional language Elm with Model-View-Update structure",
+                "Conceptualize and build responsive UI with customized Elm APIs, CSS, JavaScript, and HTML",
+                "Test elm-ui-bootstrap API for quality assurance and enhance code functionality before release",
+                "Create multiple JSON decoders to display similar text layout without hardcoding"
+            ],
+            "skills": [
+                "Elm",
+                "JavaScript",
+                "JSON",
+                "HTML",
+                "CSS",
+                "AdobeXd",
+                "Git"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "link": "https://shanjiang.dev",
+            "github": "https://github.com/SHELLEYJ32/shelleyj32.github.io",
+            "logo": "assets/image/experience/projects/portfolio.png",
+            "note": [
+                "Since this spring, I wanted to build my portfolio website but without any previous knowledge of web development, I was debating whether I should code or use a template until I came across Elm.",
+                "For the first 2 weeks of August, I learned the basics of Elm through online tutorials. It is my first functional praogramming language after two years of OOP and it has been fascinating.",
+                "As a beginner web devloper, I was able to follow most of my UI design and implement the website within the LAST 2 WEEKS of August! (Wait, What? "
+            ]
+        },
+        {
+            "title": "Game Developer Independent Research",
+            "position": "Primary Investigator",
+            "location": "Tokyo, Japan",
+            "start time": "May 2019",
+            "end time": "Oct 2019",
+            "description": [
+                "Researched contributing factors of and solutions to the gender gap in game development industry",
+                "Collected data in Tokyo, Japan through 7 interviews and 30 existing news and research reports",
+                "Raised public awareness of education for women game developers through LEAP Symposium"
+            ],
+            "tags": [
+                "Past",
+                "Honors",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "Japanese"
+            ],
+            "link": "https://leap2019.sched.com/event/WJfj/framing-the-world-through-media",
+            "logo": "assets/image/experience/projects/independent_research.png"
+        },
+        {
+            "title": "MIPS Simulator in C",
+            "position": "Programmer",
+            "organization": "Computing Systems at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Apr 2019",
+            "end time": "Apr 2019",
+            "description": [
+                "Simulated MIPS processor with program counter, memories, registers, data path, and ALU"
+            ],
+            "skills": [
+                "MIPS",
+                "C"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science"
+            ],
+            "logo": "assets/image/experience/projects/simulator.png"
+        },
+        {
+            "title": "Leverett Pond Documentary",
+            "position": "Videographer, Editor",
+            "location": "Leverett, MA",
+            "start time": "Nov 2018",
+            "end time": "May 2019",
+            "description": [
+                "Researched the history of Leverett Pond with a former UMass professor and 2 students",
+                "Interviewed 10 local residents, reviewed film scripts, and edited a 20-min documentary "
+            ],
+            "tags": [
+                "Past",
+                "Volunteer",
+                "Interactive Media"
+            ],
+            "skills": [
+                "AdobePr"
+            ],
+            "logo": "assets/image/experience/projects/leverett.png",
+            "link": "https://leverett.ma.us/d/3320/Leverett-Pond-Film-Screening"
+        }
+    ],
+    "activities": [
+        {
+            "position": "Network and Community Team Member",
+            "organization": "Computer Science Society at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Feb 2019",
+            "end time": "Present",
+            "description": [
+                "Improved peer mentoring experience through initiating the design of Q&A boards and buddy system",
+                "Supported foundation of the first Data Science club via outreach to over ten STEM organizations"
+            ],
+            "tags": [
+                "Current",
+                "Leadership",
+                "Computer Science"
+            ],
+            "skills": [
+                "AdobePs"
+            ],
+            "link": "https://www.facebook.com/mhcompsci/",
+            "logo": "assets/image/experience/activities/css_network.png"
+        },
+        {
+            "position": "Developer Student Club Leader",
+            "organization": "Google Developers",
+            "location": "South Hadley, MA",
+            "start time": "Aug 2019",
+            "end time": "Dec 2019",
+            "description": [
+                "Proposed to found the first Deverloper Student Club on campus and planned monthly events"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Computer Science"
+            ],
+            "skills": [
+                "Java",
+                "JavaScript"
+            ],
+            "link": "https://developers.google.com/community/dsc/",
+            "logo": "assets/image/experience/activities/gdsc.png"
+        },
+        {
+            "position": "Student Speaker",
+            "organization": "Society for Cinema and Media Studies Undergraduate Conference",
+            "location": "Allentown, PA",
+            "start time": "Apr 2019",
+            "end time": "Apr 2019",
+            "description": [
+                "Presented on Transition of Women Depiction in Chinese Animation to increase awareness of embedded gender stereotype and to encourage diverse female portrayals in Chinese animation"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Interactive Media"
+            ],
+            "skills": [
+                "Chinese"
+            ],
+            "link": "https://www.cmstudies.org/page/undergraduate",
+            "logo": "assets/image/experience/activities/scmsu.png"
+        },
+        {
+            "position": "Student Speaker",
+            "organization": "Five College Film and Media Studies Undergraduate Conference",
+            "location": "Amherst, MA",
+            "start time": "Mar 2019",
+            "end time": "Mar 2019",
+            "description": [
+                "Presented on Transition of Women Depiction in Chinese Animation to increase awareness of embedded gender stereotype and to encourage diverse female portrayals in Chinese animation"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Interactive Media"
+            ],
+            "skills": [
+                "Chinese"
+            ],
+            "link": "https://www.fivecolleges.edu/calendar-of-events/listings/node/225444",
+            "logo": "assets/image/experience/activities/5c_film_conference.png"
+        },
+        {
+            "position": "Girls in Tech Conference Volunteer",
+            "organization": "Computer Science Society at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Apr 2018",
+            "end time": "Apr 2018",
+            "description": [
+                "Assisted in preparation for software and hardware workshops for 20 high school girls in New England"
+            ],
+            "tags": [
+                "Past",
+                "Volunteer",
+                "Computer Science"
+            ],
+            "skills": [
+                "Java"
+            ],
+            "link": "https://www.facebook.com/mhcgitconference/",
+            "logo": "assets/image/experience/activities/git.png"
+        },
+        {
+            "position": "Outreach Coordinator",
+            "organization": "Asian Student Association at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2017",
+            "end time": "May 2019",
+            "description": [
+                "Increase awareness of and appreciation for Asian descent and their varied cultures",
+                "Collaborate with students among 20 cultural organizations in Five College Consortium",
+                "Organize annual showcase, VariAsians, for up to 150 performers and 400 audience"
+            ],
+            "tags": [
+                "Past",
+                "Leadership"
+            ],
+            "skills": [
+                "Photography"
+            ],
+            "link": "https://www.facebook.com/MHC.ASA1/",
+            "logo": "assets/image/experience/activities/asa.png"
+        },
+        {
+            "position": "Set Crew Volunteer",
+            "organization": "Rooke Theatre at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2017",
+            "end time": "May 2019",
+            "description": [
+                "Worked on set preparation, such as prop building, rigging, and welding for theatre productions",
+                "Past productions include Frankenstein, Bull in a China Shop, and Midsummer Night's Dream"
+            ],
+            "tags": [
+                "Past",
+                "Volunteer"
+            ],
+            "skills": [
+                "Photography"
+            ],
+            "link": "https://www.facebook.com/MHCRookeTheatre/",
+            "logo": "assets/image/experience/activities/set_crew.png"
+        },
+        {
+            "position": "Student Representative in New Media",
+            "organization": "Association of Chinese Undergraduates in Liberal Arts Colleges (ACULAC)",
+            "location": "Remote",
+            "start time": "Sep 2017",
+            "end time": "May 2018",
+            "description": [
+                "Shared experiences in college application and school life through WeChat posts and online lectures",
+                "Built connections between prospective and current students among 20,000 subscribers"
+            ],
+            "tags": [
+                "Past"
+            ],
+            "skills": [
+                "AdobePr"
+            ],
+            "link": "https://mp.weixin.qq.com/s?__biz=MjM5NTIyNzM2Nw==&mid=2651600690&idx=1&sn=4ecd9cb6957c6733b168e36f1b554f21&chksm=bd0324ba8a74adac4111919f060473e831db59743eb35ea2acf46c6f4a243f9ed56f60f53c23&scene=21#wechat_redirect",
+            "logo": "assets/image/experience/activities/aculac.png"
+        }
+    ],
+    "justGames": [
+        {
+            "title": "Twinkle Twinkle",
+            "position": "Game Programmer",
+            "organization": "Building Virtual Worlds at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Oct 2021",
+            "end time": "Oct 2021",
+            "description": [
+                "Propotyped a virtual reality interactive puzzle game in Unity and Oculus Quest 2 with integrated hand tracking functionality such as pinching and grabbing",
+                "Collaborated within five-person interdiscplinary team for production within one week"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "logo": "assets/image/experience/justGames/twinkle.png"
+        },
+        {
+            "title": "I'm Home",
+            "position": "Lead Game Programmer",
+            "organization": "Building Virtual Worlds at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Sep 2021",
+            "end time": "Oct 2021",
+            "description": [
+                "Propotyped and impletmented a virtual reality interactive horror game in Unity and Oculus",
+                "Collaborated within five-person interdiscplinary team for production within 2 weeks",
+                "Iterated game design multiple times after playtested with over ten people within 3 days"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "media": "https://youtu.be/nGybQ4m7EaM",
+            "logo": "assets/image/experience/justGames/imhome.png"
+        },
+        {
+            "title": "Once Upon a Wolf",
+            "position": "Lead Game Programmer",
+            "organization": "Building Virtual Worlds at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Sep 2021",
+            "end time": "Sep 2021",
+            "description": [
+                "Propotyped and impletmented a mixed reality interactive puzzle game in Unity and HoloLens2",
+                "Collaborated within five-person interdiscplinary team for production and playtesting within 2 weeks"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "logo": "assets/image/experience/justGames/once_upon_a_wolf.png"
+        },
+        {
+            "title": "Fire Painter",
+            "position": "Game Artist",
+            "organization": "Intern Game Jam at Unity Tehnologies",
+            "location": "Remote",
+            "start time": "Aug 2020",
+            "end time": "Aug 2020",
+            "description": [
+                "Collaborate with 3 students to design, develop, and publish a web multi-player game in 24 hours",
+                "Implemented UI in Unity, co-created game art assets with team members, and performed rapid tests"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "link": "https://arnaudparevogt-unity.itch.io/firepainter",
+            "github": "https://github.com/arnaudparevogt-unity/firepainter",
+            "media": "https://youtu.be/R7fIe-FcMko",
+            "logo": "assets/image/experience/justGames/fire_painter.png"
+        },
+        {
+            "title": "Cosmia Cosmic Solitaire",
+            "position": "Lead Game Programmer and Team Leader",
+            "organization": "Interdisciplinary Game Studio at Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Sep 2019",
+            "end time": "May 2020",
+            "description": [
+                "Collaborated with 30 students to design, develop, and publish a mobile Unity game in 13 weeks",
+                "Oversaw game execution through GitHub and Unity Cloud and monitored version control through Git",
+                "Lead 6 programmers, designed cross-team pipelines and developed Technical Design Document",
+                "Optimized graphics rendering, implemented UI, and conceptualized gameplay elements with the lead designer"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "link": "https://creatorreda.wixsite.com/cosmia",
+            "github": "https://github.com/HampshireCollegeCompSci/cs327_f2019",
+            "media": "https://drive.google.com/file/d/1AU2n4RProCWQPwRfxEsLBkBg_lkdBhxo/view?usp=sharing",
+            "logo": "assets/image/experience/justGames/cosmia.png"
+        },{
+            "title": "Spider Solitaire",
+            "position": "Game Programmer",
+            "organization": "Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Sep 2019",
+            "end time": "Sep 2019",
+            "description": [
+                "Implemented Spider Solitaire as a desktop card game within 12 hours in Unity"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "link": "https://shanjiang.dev/Spider-Solitaire-WebGL/",
+            "github": "https://github.com/SHELLEYJ32/Spider-Solitaire",
+            "logo": "assets/image/experience/justGames/spider_solitaire.png"
+        },{
+            "title": "Please Turn off the Lights",
+            "position": "Lead Game Programmer, Game Designer",
+            "organization": "Twitch.tv Game Development at Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Mar 2019",
+            "end time": "May 2019",
+            "description": [
+                "Designed and programmed a C# open-source single-player game within 6 weeks",
+                "Experimented with TwitchLib and bot for real-time interaction between streamers and viewers",
+                "Iterated 5 versions with 7 team members and playtested with over 40 people"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "link": "https://creatorreda.wixsite.com/ptotl",
+            "github": "https://github.com/SHELLEYJ32/PlsTurnOffTheLights",
+            "media": "https://creatorreda.wixsite.com/ptotl?wix-vod-video-id=8156ecf150224f25a1f340ea8fa60135&wix-vod-comp-id=comp-jtyinsw0",
+            "logo": "assets/image/experience/justGames/ptotl.png"
+        },
+        {
+            "title": "Herding Chats",
+            "position": "Game Programmer",
+            "organization": "Twitch.tv Game Development at Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Jan 2019",
+            "end time": "Mar 2019",
+            "description": [
+                "Designed and programmed a C# open-source single-player game within 6 weeks",
+                "Experimented with TwitchLib and bot for real-time interaction between streamers and viewers",
+                "Iterated 7 versions with 7 team members and playtested with over 40 people"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "link": "https://herdingchats.wixsite.com/mysite",
+            "github": "https://github.com/SHELLEYJ32/HerdingChats3",
+            "media": "https://youtu.be/zdYUjfqdybA",
+            "logo": "assets/image/experience/justGames/herding_chats.png"
+        },{
+            "title": "Color Plus",
+            "position": "Game Programmer",
+            "organization": "Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Jan 2019",
+            "end time": "Jan 2019",
+            "description": [
+                "Implemented a cooperative two-player web-based action puzzle game within 72 hours in Unity"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "link": "https://shanjiang.dev/ColorPlusWebGL/",
+            "github": "https://github.com/SHELLEYJ32/ColorPlus",
+            "logo": "assets/image/experience/justGames/colorplus.png"
+        },
+        {
+            "title": "Waste and Words Sorting Game",
+            "position": "Lead Game Programmer, Game Designer",
+            "organization": "HackHolyoke at Mount Holyoke College ",
+            "location": "South Hadley, MA",
+            "start time": "Nov 2018",
+            "end time": "Nov 2018",
+            "description": [
+                "Awarded the Environmental Prize with a game in Java to teach waste sorting and part-of-speech",
+                "Led the game algorithm design with Model-View-Controller architecture and interface with GUI ",
+                "Implemented a 150-word XML library for categorized and expandable game content"
+            ],
+            "skills": [
+                "Java",
+                "XML",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Honors",
+                "Leadership",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "github": "https://github.com/RCBMcBane/BluePuddleCats",
+            "media": "https://drive.google.com/file/d/1umL6TZyc3MlPw0uY6xfF0HJooz11LgAi/view?usp=sharing",
+            "logo": "assets/image/experience/justGames/sorting_game.png"
+        }
+    ]
+}
