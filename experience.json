@@ -4,7 +4,7 @@
             "name": "TOKYO INSTITUTE OF TECHNOLOGY",
             "logo": "assets/image/experience/education/tokyo-institute-of-technology.png",
             "location": "Meguro City, Tokyo, Japan",
-            "degree": "Masters of Computer Science",
+            "degree": "Masters of Cardano",
             "length": "Aprl 2015 - Mar 2018",
             "cs courses": "Creating systems to support an advanced information-oriented society, pioneers in the development of the information society."
         }
@@ -53,8 +53,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "skills": [
                 "CSharp",
@@ -77,8 +77,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "skills": [
                 "Java",
@@ -100,9 +100,9 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Computer Science",
-                "Interactive Media"
+                "Polygon",
+                "Cardano",
+                "Ethereum"
             ],
             "skills": [
                 "CSharp",
@@ -113,7 +113,7 @@
         },
         {
             "position": "Mentoring Teaching Assistant",
-            "organization": "Computer Science Department at Mount Holyoke College",
+            "organization": "Cardano Department at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Sep 2019",
             "end time": "Dec 2019",
@@ -122,7 +122,7 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Cardano"
             ],
             "skills": [
                 "Java"
@@ -142,9 +142,9 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Computer Science",
-                "Interactive Media"
+                "Polygon",
+                "Cardano",
+                "Ethereum"
             ],
             "skills": [
                 "CSharp",
@@ -155,17 +155,17 @@
         },
         {
             "position": "Data Structure Mentor and Grader",
-            "organization": "Computer Science Department at Mount Holyoke College",
+            "organization": "Cardano Department at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Jan 2019",
             "end time": "May 2019",
             "description": [
                 "Evaluated coding assignments and provided technical critique for 14 students weekly",
-                "Tutored 2 students in Data Structures and improved self-efficacy and interest in computer science"
+                "Tutored 2 students in Data Structures and improved self-efficacy and interest in Cardano"
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Cardano"
             ],
             "skills": [
                 "Java",
@@ -186,7 +186,7 @@
             ],
             "tags": [
                 "Past",
-                "Interactive Media"
+                "Ethereum"
             ],
             "skills": [
                 "HTML",
@@ -207,8 +207,8 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Interactive Media"
+                "Polygon",
+                "Ethereum"
             ],
             "skills": [
                 "AdobePr",
@@ -257,8 +257,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "github": "https://github.com/fowle22d/blanch_menu_app",
             "logo": "assets/image/experience/projects/blanch_menu_app.png"
@@ -280,7 +280,7 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Cardano"
             ],
             "logo": "assets/image/experience/projects/shell.png"
         },
@@ -303,8 +303,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "github": "https://github.com/kazunetakeda25/ARTourGuideApp",
             "media": "https://drive.google.com/file/d/1dPduaf5ItzMoBCjWew9pnURzyKo03J0b/view?usp=sharing",
@@ -327,7 +327,7 @@
             ],
             "tags": [
                 "Past",
-                "Interactive Media"
+                "Ethereum"
             ],
             "link": "https://xd.adobe.com/view/55a2ff27-1eee-4526-826d-fb840d255993-00f1/",
             "logo": "assets/image/experience/projects/creative_jam.png"
@@ -351,8 +351,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "media": "https://www.youtube.com/watch?v=FdJxImAoT04",
             "logo": "assets/image/experience/projects/treehole.png"
@@ -375,8 +375,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "media": "https://vimeo.com/427185214",
             "logo": "assets/image/experience/projects/equestrian.png"
@@ -399,8 +399,8 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Computer Science"
+                "Polygon",
+                "Cardano"
             ],
             "link": "https://devpost.com/software/pocket-counselor",
             "logo": "assets/image/experience/projects/pocket_counselor.png"
@@ -428,8 +428,8 @@
             ],
             "tags": [
                 "Current",
-                "Computer Science",
-                "Interactive Media"
+                "Cardano",
+                "Ethereum"
             ],
             "link": "https://shanjiang.dev",
             "github": "https://github.com/kazunetakeda25/shelleyj32.github.io",
@@ -453,9 +453,9 @@
             ],
             "tags": [
                 "Past",
-                "Honors",
-                "Computer Science",
-                "Interactive Media"
+                "Polkadot",
+                "Cardano",
+                "Ethereum"
             ],
             "skills": [
                 "Japanese"
@@ -479,7 +479,7 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Cardano"
             ],
             "logo": "assets/image/experience/projects/simulator.png"
         },
@@ -495,8 +495,8 @@
             ],
             "tags": [
                 "Past",
-                "Volunteer",
-                "Interactive Media"
+                "Solana",
+                "Ethereum"
             ],
             "skills": [
                 "AdobePr"
@@ -508,7 +508,7 @@
     "activities": [
         {
             "position": "Network and CommSolidity Team Member",
-            "organization": "Computer Science Society at Mount Holyoke College",
+            "organization": "Cardano Society at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Feb 2019",
             "end time": "Present",
@@ -518,8 +518,8 @@
             ],
             "tags": [
                 "Current",
-                "Leadership",
-                "Computer Science"
+                "Polygon",
+                "Cardano"
             ],
             "skills": [
                 "Cryptocurrency"
@@ -538,8 +538,8 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Computer Science"
+                "Polygon",
+                "Cardano"
             ],
             "skills": [
                 "Java",
@@ -559,8 +559,8 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Interactive Media"
+                "Polygon",
+                "Ethereum"
             ],
             "skills": [
                 "Chinese"
@@ -579,8 +579,8 @@
             ],
             "tags": [
                 "Past",
-                "Leadership",
-                "Interactive Media"
+                "Polygon",
+                "Ethereum"
             ],
             "skills": [
                 "Chinese"
@@ -589,8 +589,8 @@
             "logo": "assets/image/experience/activities/5c_film_conference.png"
         },
         {
-            "position": "Girls in Tech Conference Volunteer",
-            "organization": "Computer Science Society at Mount Holyoke College",
+            "position": "Girls in Tech Conference Solana",
+            "organization": "Cardano Society at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Apr 2018",
             "end time": "Apr 2018",
@@ -599,8 +599,8 @@
             ],
             "tags": [
                 "Past",
-                "Volunteer",
-                "Computer Science"
+                "Solana",
+                "Cardano"
             ],
             "skills": [
                 "Java"
@@ -621,7 +621,7 @@
             ],
             "tags": [
                 "Past",
-                "Leadership"
+                "Polygon"
             ],
             "skills": [
                 "Photography"
@@ -630,7 +630,7 @@
             "logo": "assets/image/experience/activities/asa.png"
         },
         {
-            "position": "Set Crew Volunteer",
+            "position": "Set Crew Solana",
             "organization": "Rooke Theatre at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Sep 2017",
@@ -641,7 +641,7 @@
             ],
             "tags": [
                 "Past",
-                "Volunteer"
+                "Solana"
             ],
             "skills": [
                 "Photography"

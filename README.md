@@ -43,10 +43,10 @@ Self-directed and driven technology professional with comprehensive accomplishme
 
 ## Education
 
-**Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
+**Cardano | TOKYO INSTITUTE OF TECHNOLOGY**\
 Apr 2015 – Mar 2018
 
-Studied Computer Science\
+Studied Cardano\
 Attended from April 2015 to March 2018\
 Master's Degree
 

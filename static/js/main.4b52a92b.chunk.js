@@ -1741,7 +1741,7 @@
           Ee = W,
           Se = f(
             Ce,
-            'honors',
+            'Polkadot',
             c(It, Gr, Ee),
             Fr,
             f(
@@ -1909,16 +1909,20 @@
                   return Vt(0)
                 case 'Past':
                   return Vt(1)
-                case 'Leadership':
+                case 'Ethereum':
                   return Vt(2)
-                case 'Honors':
+                case 'Cardano':
                   return Vt(3)
-                case 'Volunteer':
+                case 'Solana':
                   return Vt(4)
-                case 'Computer Science':
+                case 'Polkadot':
                   return Vt(5)
-                case 'Interactive Media':
+                case 'Polygon':
                   return Vt(6)
+                case 'DEFI':
+                  return Vt(7)
+                case 'NFT':
+                  return Vt(8)
                 default:
                   return je('Unknown tag: ' + n)
               }
@@ -7275,7 +7279,7 @@
                     Rs,
                     A([ws(y($s, { B: Ga(10 * r) })), rs]),
                     A([
-                      Cs('Honors/Awards: '),
+                      Cs('Polkadot/Awards: '),
                       c(
                         Rs,
                         A([ws(y($s, { B: Ga(10 * r) })), js(10), xs]),
@@ -7292,7 +7296,7 @@
                     Rs,
                     A([ws(y($s, { B: Ga(10 * r) })), js(10), rs]),
                     A([
-                      Cs('Computer Science Courses: '),
+                      Cs('Cardano Courses: '),
                       c(
                         Rs,
                         A([ws(y($s, { B: Ga(10 * r) })), js(10), xs, gs]),
@@ -8155,15 +8159,15 @@
               case 1:
                 return 'Past'
               case 2:
-                return 'Leadership'
+                return 'Polygon'
               case 3:
-                return 'Honors/Awards'
+                return 'Polkadot/Awards'
               case 4:
-                return 'Volunteer'
+                return 'Solana'
               case 5:
-                return 'Computer Science'
+                return 'Cardano'
               default:
-                return 'Interactive Media'
+                return 'Ethereum'
             }
           },
           Cb = function (n) {
@@ -9105,9 +9109,9 @@
                 o(
                   wd,
                   A([
-                    w('Leadership', Gr(2)),
-                    w('Honors/Awards', Gr(3)),
-                    w('Volunteer', Gr(4))
+                    w('Polygon', Gr(2)),
+                    w('Polkadot/Awards', Gr(3)),
+                    w('Solana', Gr(4))
                   ]),
                   n,
                   r
@@ -9115,8 +9119,8 @@
                 o(
                   wd,
                   A([
-                    w('Computer Science', Gr(5)),
-                    w('Interactive Media', Gr(6))
+                    w('Cardano', Gr(5)),
+                    w('Ethereum', Gr(6))
                   ]),
                   n,
                   r
