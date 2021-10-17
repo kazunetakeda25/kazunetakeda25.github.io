@@ -9341,11 +9341,7 @@
                     ),
                     c(
                       Rs,
-                      c(
-                        Jr,
-                        Ti(o(Mf, 224, 108, 117)),
-                        c(Jr, Yf(Ga(16 * e)), Bd)
-                      ),
+                      A([js(10)]),
                       A([
                         Sd(
                           'Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals.'
@@ -9357,84 +9353,37 @@
                       A([js(10)]),
                       A([
                         Sd(
-                          'Welcome to my portfolio. I know you are curious about the person who made this. I am curious about myself too.'
+                          'Strong experience in the Blockchain industry with great acumen.'
                         )
                       ])
                     ),
                     c(
-                      Rs,
-                      A([js(10)]),
-                      A([
-                        Sd(
-                          'This website is built with Elm and released in Aug 2019. Many thanks to '
-                        ),
-                        tl(function () {
-                          return c(
-                            fl,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            {
-                              be: Bs('Yuan Ji'),
-                              bs: 'https://github.com/jiwhiz'
-                            }
+                        Rs,
+                        A([js(10)]),
+                        A([
+                          Sd(
+                            'Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures.'
                           )
-                        }),
-                        Sd(' and '),
-                        tl(function () {
-                          return c(
-                            fl,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            { be: Bs('Joshua Ji'), bs: 'https://joshuaji.com' }
+                        ])
+                      ),
+                      c(
+                        Rs,
+                        A([js(10)]),
+                        A([
+                          Sd(
+                            'Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology.'
                           )
-                        }),
-                        Sd(
-                          ' for introducing me to the language and supporting me during the development.'
-                        )
-                      ])
-                    ),
-                    c(
-                      Rs,
-                      A([js(10)]),
-                      A([
-                        c(
-                          Md,
-                          c(
-                            Jr,
-                            Ti(o(Mf, 224, 108, 117)),
-                            c(Jr, Yf(Ga(16 * e)), Bd)
-                          ),
-                          Sd('How is this different from my paper resume? ')
-                        ),
-                        Sd(
-                          'Good question! Well, it is much more complete and interactive, giving you full access to my profile and also quickly find what you are looking for.'
-                        )
-                      ])
-                    ),
-                    c(
-                      Rs,
-                      A([js(10)]),
-                      A([
-                        c(
-                          Md,
-                          c(
-                            Jr,
-                            Ti(o(Mf, 224, 108, 117)),
-                            c(Jr, Yf(Ga(16 * e)), Bd)
-                          ),
-                          Sd('Brand New Feature Available: ')
-                        ),
-                        Sd(
-                          'Click on Experience - Just Games to see all the games I made in the past few years! Production classes, game Jams, personal creations, and so much more!'
-                        )
-                      ])
-                    )
+                        ])
+                      ),
+                      c(
+                        Rs,
+                        A([js(10)]),
+                        A([
+                          Sd(
+                            'Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Solana, Cardano, Polkadot, and Polygon.'
+                          )
+                        ])
+                      ),
                   ])
                 ),
                 c(
@@ -9444,7 +9393,7 @@
                     Pf,
                     c(Jr, Ti(o(Mf, 224, 108, 117)), c(Jr, Yf(Ga(16 * e)), Bd))
                   ),
-                  A([Sd('Log updated: Oct.12, 2021')])
+                  A([Sd('Log updated: Feb.5, 2021')])
                 )
               ])
             )
