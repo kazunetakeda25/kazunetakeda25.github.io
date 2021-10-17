@@ -1741,7 +1741,7 @@
           Ee = W,
           Se = f(
             Ce,
-            'Polkadot',
+            'honors',
             c(It, Gr, Ee),
             Fr,
             f(
@@ -1835,7 +1835,7 @@
             Lt,
             function (n) {
               switch (n) {
-                case 'Elm':
+                case 'Solidity':
                   return Vt(0)
                 case 'JavaScript':
                   return Vt(1)
@@ -1875,15 +1875,15 @@
                   return Vt(18)
                 case 'ML':
                   return Vt(19)
-                case 'Solidity':
+                case 'Unity':
                   return Vt(20)
-                case 'MERN Stacks':
+                case 'Figma':
                   return Vt(21)
                 case 'AdobeXd':
                   return Vt(22)
                 case 'AdobePr':
                   return Vt(23)
-                case 'Cryptocurrency':
+                case 'AdobePs':
                   return Vt(24)
                 case 'AdobeAe':
                   return Vt(25)
@@ -1915,14 +1915,10 @@
                   return Vt(3)
                 case 'Solana':
                   return Vt(4)
-                case 'Polkadot':
+                case 'Computer Science':
                   return Vt(5)
-                case 'Polygon':
+                case 'Interactive Media':
                   return Vt(6)
-                case 'DEFI':
-                  return Vt(7)
-                case 'NFT':
-                  return Vt(8)
                 default:
                   return je('Unknown tag: ' + n)
               }
@@ -7279,7 +7275,7 @@
                     Rs,
                     A([ws(y($s, { B: Ga(10 * r) })), rs]),
                     A([
-                      Cs('Polkadot/Awards: '),
+                      Cs('Cardano: '),
                       c(
                         Rs,
                         A([ws(y($s, { B: Ga(10 * r) })), js(10), xs]),
@@ -7296,7 +7292,7 @@
                     Rs,
                     A([ws(y($s, { B: Ga(10 * r) })), js(10), rs]),
                     A([
-                      Cs('Cardano Courses: '),
+                      Cs('Computer Science Courses: '),
                       c(
                         Rs,
                         A([ws(y($s, { B: Ga(10 * r) })), js(10), xs, gs]),
@@ -8058,7 +8054,7 @@
           zb = function (n) {
             switch (n) {
               case 0:
-                return 'Elm'
+                return 'Solidity'
               case 1:
                 return 'JavaScript'
               case 2:
@@ -8098,9 +8094,9 @@
               case 19:
                 return 'Machine Learning'
               case 20:
-                return 'Solidity'
+                return 'Unity'
               case 21:
-                return 'MERN Stacks'
+                return 'Figma'
               case 22:
                 return 'Adobe Xd'
               case 23:
@@ -8159,15 +8155,15 @@
               case 1:
                 return 'Past'
               case 2:
-                return 'Polygon'
+                return 'Ethereum'
               case 3:
-                return 'Polkadot/Awards'
+                return 'Cardano'
               case 4:
                 return 'Solana'
               case 5:
-                return 'Cardano'
+                return 'Computer Science'
               default:
-                return 'Ethereum'
+                return 'Interactive Media'
             }
           },
           Cb = function (n) {
@@ -9109,8 +9105,8 @@
                 o(
                   wd,
                   A([
-                    w('Polygon', Gr(2)),
-                    w('Polkadot/Awards', Gr(3)),
+                    w('Ethereum', Gr(2)),
+                    w('Cardano', Gr(3)),
                     w('Solana', Gr(4))
                   ]),
                   n,
@@ -9119,8 +9115,8 @@
                 o(
                   wd,
                   A([
-                    w('Cardano', Gr(5)),
-                    w('Ethereum', Gr(6))
+                    w('Computer Science', Gr(5)),
+                    w('Interactive Media', Gr(6))
                   ]),
                   n,
                   r
@@ -9142,7 +9138,7 @@
                       return c(
                         Rs,
                         A([Yf(Ga(15 * n)), Fs]),
-                        A([Cb('')])
+                        A([Cb(']')])
                       )
                     })(r)
                   ])
