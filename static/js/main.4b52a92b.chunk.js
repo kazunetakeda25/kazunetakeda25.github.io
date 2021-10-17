@@ -2114,18 +2114,13 @@
           ),
           Ne = o(
             Me,
-            'justGames',
-            He(Ie),
+            'activities',
+            He(Le),
             o(
               Me,
-              'activities',
-              He(Le),
-              o(
-                Me,
-                'projects',
-                He(Ie),
-                o(Me, 'employment', He(Le), o(Me, 'education', He(Se), Vt(ye)))
-              )
+              'projects',
+              He(Ie),
+              o(Me, 'employment', He(Le), o(Me, 'education', He(Se), Vt(ye)))
             )
           ),
           Ve = function (n) {
