@@ -1,16 +1,94 @@
 {
     "education": [
         {
-            "name": "TOKYO INSTITUTE OF TECHNOLOGY",
-            "logo": "assets/image/experience/education/tokyo-institute-of-technology.png",
-            "location": "Meguro City, Tokyo, Japan",
-            "degree": "Masters of Computer Science",
-            "length": "Aprl 2015 - Mar 2018",
-            "cs courses": "Creating systems to support an advanced information-oriented society, pioneers in the development of the information society."
+            "name": "Carnegie Mellon University",
+            "logo": "assets/image/experience/education/cmu logo.png",
+            "location": "Pittsburgh, PA",
+            "degree": "Masters of Entertainment Technology",
+            "length": "Sep 2021 - May 2023",
+            "cs courses": "Building Virtual Worlds",
+            "film courses": "Visual Story, Improvasational Acting"
+        },
+        {
+            "name": "Mount Holyoke College",
+            "logo": "assets/image/experience/education/MHC logo.png",
+            "location": "South Hadley, MA",
+            "degree": "Bachelor of Arts",
+            "length": "Sep 2017 - May 2021",
+            "majors": "Computer Science and Interactive Media",
+            "cs courses": "Algorithms, Operating Systems, Advanced Data Structures, Modeling and Simulation, Computing System, Advanced Problem Solving and OOP, Multivariable Calculus, Discrete Mathematics",
+            "film courses": "History of World Cinema, Film Theory: Cinema/City",
+            "honors": "Mildred L Sanderson Prize for Math Excellence, Louise Appleton Career Development Fund for independent research, Sarah Williston Scholar, Art and Technology Microgrant"
+        },
+        {
+            "name": "Budapest University of Technology and Economics",
+            "logo": "assets/image/experience/education/BME logo.png",
+            "location": "Budapest, Hungary",
+            "length": "Jan 2020 - May 2020",
+            "relation": "Study Abroad - Spring 2020",
+            "cs courses": "Computer Graphics, Mobile Software Development, User Experience Design",
+            "film courses": "Budapest through Cinema, People, and Streets",
+            "honors": "Laurel Fellowship"
+        },
+        {
+            "name": "Hampshire College",
+            "logo": "assets/image/experience/education/hampshire logo.png",
+            "location": "Amherst, MA",
+            "relation": "Five College Consortium Cross Registration",
+            "cs courses": "Twitch.tv Game Development, Interdisciplinary Game Studio, Computer Animation I, Women in Game Programming"
+        },
+        {
+            "name": "Amherst College",
+            "logo": "assets/image/experience/education/amherst logo.png",
+            "location": "Amherst, MA",
+            "relation": "Five College Consortium Cross Registration",
+            "film courses": "Documentary Production"
+        },
+        {
+            "name": "University of Massachusetts - Amherst",
+            "logo": "assets/image/experience/education/UMass logo.png",
+            "location": "Amherst, MA",
+            "relation": "Five College Consortium Cross Registration",
+            "film courses": "Introduction to History of Animation"
+        },
+        {
+            "name": "Smith College",
+            "logo": "assets/image/experience/education/smith logo.png",
+            "location": "Northampton, MA",
+            "relation": "Five College Consortium Cross Registration"
+        },
+        {
+            "name": "University of California - Los Angeles",
+            "logo": "assets/image/experience/education/UCLA logo.jpeg",
+            "length": "Jun 2018 - Aug 2018",
+            "location": "Los Angeles, CA",
+            "relation": "Summer 2018",
+            "film courses": "Digital Cinematography"
         }
     ],
     "employment": [
-        
+        {
+            "position": "Mobile Software Engineer Intern",
+            "organization": "Psychic VR Lab",
+            "location": "Tokyo, Japan",
+            "start time": "May 2021",
+            "end time": "Jul 2021",
+            "description": [
+                "Prototyped their STYLY website into an iPad app that allows users to build and preview AR/VR worlds",
+                "Integrated runtime transform handler, camera touch control and save/load system for each world"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://styly.cc/",
+            "logo": "assets/image/experience/employment/styly.png"
+        },
         {
             "position": "XR Feature Intern",
             "organization": "Unity Technologies",
@@ -277,7 +355,7 @@
                 "Computer Science",
                 "Interactive Media"
             ],
-            "github": "https://github.com/kazunetakeda25/ARTourGuideApp",
+            "github": "https://github.com/SHELLEYJ32/ARTourGuideApp",
             "media": "https://drive.google.com/file/d/1dPduaf5ItzMoBCjWew9pnURzyKo03J0b/view?usp=sharing",
             "logo": "assets/image/experience/projects/ar_tour_guide.png"
         },
@@ -403,7 +481,7 @@
                 "Interactive Media"
             ],
             "link": "https://shanjiang.dev",
-            "github": "https://github.com/kazunetakeda25/shelleyj32.github.io",
+            "github": "https://github.com/SHELLEYJ32/shelleyj32.github.io",
             "logo": "assets/image/experience/projects/portfolio.png",
             "note": [
                 "Since this spring, I wanted to build my portfolio website but without any previous knowledge of web development, I was debating whether I should code or use a template until I came across Elm.",
@@ -782,7 +860,7 @@
                 "Interactive Media"
             ],
             "link": "https://shanjiang.dev/Spider-Solitaire-WebGL/",
-            "github": "https://github.com/kazunetakeda25/Spider-Solitaire",
+            "github": "https://github.com/SHELLEYJ32/Spider-Solitaire",
             "logo": "assets/image/experience/justGames/spider_solitaire.png"
         },{
             "title": "Please Turn off the Lights",
@@ -807,7 +885,7 @@
                 "Interactive Media"
             ],
             "link": "https://creatorreda.wixsite.com/ptotl",
-            "github": "https://github.com/kazunetakeda25/PlsTurnOffTheLights",
+            "github": "https://github.com/SHELLEYJ32/PlsTurnOffTheLights",
             "media": "https://creatorreda.wixsite.com/ptotl?wix-vod-video-id=8156ecf150224f25a1f340ea8fa60135&wix-vod-comp-id=comp-jtyinsw0",
             "logo": "assets/image/experience/justGames/ptotl.png"
         },
@@ -834,7 +912,7 @@
                 "Interactive Media"
             ],
             "link": "https://herdingchats.wixsite.com/mysite",
-            "github": "https://github.com/kazunetakeda25/HerdingChats3",
+            "github": "https://github.com/SHELLEYJ32/HerdingChats3",
             "media": "https://youtu.be/zdYUjfqdybA",
             "logo": "assets/image/experience/justGames/herding_chats.png"
         },{
@@ -857,7 +935,7 @@
                 "Interactive Media"
             ],
             "link": "https://shanjiang.dev/ColorPlusWebGL/",
-            "github": "https://github.com/kazunetakeda25/ColorPlus",
+            "github": "https://github.com/SHELLEYJ32/ColorPlus",
             "logo": "assets/image/experience/justGames/colorplus.png"
         },
         {
