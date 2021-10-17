@@ -1865,6 +1865,8 @@
                   return Vt(13)
                 case 'Amazon AWS':
                   return Vt(14)
+                case 'Smart Contracts':
+                  return Vt(15)
                 default:
                   return je('Unknown skill: ' + n)
               }
@@ -8053,6 +8055,8 @@
                 return 'Git'
               case 14:
                 return 'Amazon AWS'
+              case 15:
+                return 'Smart Contracts'
               default:
                 return 'C'
             }
