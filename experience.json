@@ -1,7 +1,7 @@
 {
     "education": [
         {
-            "name": "TOKYO INSTITUTE OF TECHNOLOGY",
+            "name": "TOKYO INSTITUTE OF TECHNOLOGY<br>",
             "logo": "assets/image/experience/education/tokyo-institute-of-technology.png",
             "location": "Meguro City, Tokyo, Japan",
             "degree": "Masters of Computer Science",
@@ -11,26 +11,34 @@
     ],
     "employment": [
         {
-            "position": "Mobile Software Engineer Intern",
-            "organization": "Psychic VR Lab",
-            "location": "Tokyo, Japan",
-            "start time": "May 2021",
-            "end time": "Jul 2021",
+            "position": "Blockchain Developer",
+            "organization": "UPWORK INC.",
+            "location": "San Francisco, CA, United States",
+            "start time": "Aug 2017",
+            "end time": "Jul 2020",
             "description": [
-                "Prototyped their STYLY website into an iPad app that allows users to build and preview AR/VR worlds",
-                "Integrated runtime transform handler, camera touch control and save/load system for each world"
+                "✓ Area of Participants",
+                "  - Sealed-Bid Auction (Ethereum, Polygon)",
+                "  - KingCash.io",
+                "  - Ethermine Bot, Eth Pool",
+                "  - BitCash Payment Integration",
+                "  - Krypto",
+                "  - Online Casino Bustabit",
+                "  - Chain Flyer Blockchain Explorer"
             ],
             "tags": [
-                "Current",
-                "Computer Science",
-                "Interactive Media"
+                "Past",
+                "Cryptocurrency",
+                "Smart Contracts", 
+                "Ethereum", 
+                "Bitcoin"
             ],
             "skills": [
-                "CSharp",
-                "Unity"
+                "Solidity",
+                "MERN Stacks"
             ],
-            "link": "https://styly.cc/",
-            "logo": "assets/image/experience/employment/styly.png"
+            "link": "https://www.upwork.com/freelancers/~01f3ecc44283d7a141?viewMode=1",
+            "logo": "assets/image/experience/employment/upwork.png"
         },
         {
             "position": "XR Feature Intern",
