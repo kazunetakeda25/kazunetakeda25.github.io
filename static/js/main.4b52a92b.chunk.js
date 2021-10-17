@@ -7563,7 +7563,7 @@
             var t = { bH: 2 * r, bR: n, cs: w(0, 0) }
             return c(Ji, Xs, o(Eo, Ws(t), 'text-shadow', Us(t)))
           }),
-          Ks = Ff(A([Wf('Kabel'), { $: 0 }])),
+          Ks = Ff(A([Wf('FS NokioMedium'), { $: 0 }])),
           Ys = Vf(function (n) {
             var r = (function () {
                 switch (n.v.M) {
