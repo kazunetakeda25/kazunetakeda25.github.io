@@ -17,19 +17,28 @@
             "start time": "Aug 2017",
             "end time": "Jul 2020",
             "description": [
-                "✓ Area of Participants",
-                "  - Sealed-Bid Auction (Ethereum, Polygon)",
-                "  - KingCash.io",
-                "  - Ethermine Bot, Eth Pool",
-                "  - BitCash Payment Integration",
-                "  - Krypto",
-                "  - Online Casino Bustabit",
-                "  - Chain Flyer Blockchain Explorer"
+                "- Area of Participants",
+                "Sealed-Bid Auction (Ethereum, Polygon)",
+                "KingCash.io",
+                "Ethermine Bot, Eth Pool",
+                "BitCash Payment Integration",
+                "Krypto",
+                "Online Casino Bustabit",
+                "Chain Flyer Blockchain Explorer"
             ],
             "tags": [
-                "Past"
+                "Past", 
+                "Ethereum"
             ],
             "skills": [
+                "Smart Contracts", 
+                "Solidity", 
+                "React.js",
+                "Express.js",
+                "Node.js",
+                "MongoDB",
+                "PostgreSQL", 
+                "Web3.js"
             ],
             "link": "https://www.upwork.com/freelancers/~01f3ecc44283d7a141?viewMode=1",
             "logo": "assets/image/experience/employment/upwork.png"

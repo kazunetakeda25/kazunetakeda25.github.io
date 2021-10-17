@@ -1837,64 +1837,34 @@
               switch (n) {
                 case 'Solidity':
                   return Vt(0)
-                case 'JavaScript':
+                case 'React.js':
                   return Vt(1)
-                case 'JSON':
+                case 'Express.js':
                   return Vt(2)
-                case 'HTML':
+                case 'Node.js':
                   return Vt(3)
-                case 'CSS':
+                case 'MongoDB':
                   return Vt(4)
-                case 'Java':
+                case 'PostgreSQL':
                   return Vt(5)
                 case 'Python':
-                  return Vt(7)
-                case 'GLSL':
                   return Vt(6)
-                case 'Flutter':
+                case 'Augmented Reality':
+                  return Vt(7)
+                case 'C#':
                   return Vt(8)
-                case 'Dart':
-                  return Vt(9)
-                case 'Kotlin':
-                  return Vt(10)
-                case 'AndroidStudio':
-                  return Vt(11)
-                case 'MIPS':
-                  return Vt(12)
-                case 'C':
-                  return Vt(13)
-                case 'CPP':
-                  return Vt(14)
-                case 'CSharp':
-                  return Vt(15)
-                case 'Linux':
-                  return Vt(16)
-                case 'XML':
-                  return Vt(17)
-                case 'Git':
-                  return Vt(18)
-                case 'ML':
-                  return Vt(19)
                 case 'Unity':
-                  return Vt(20)
-                case 'Figma':
-                  return Vt(21)
-                case 'AdobeXd':
-                  return Vt(22)
-                case 'AdobePr':
-                  return Vt(23)
-                case 'AdobePs':
-                  return Vt(24)
-                case 'AdobeAe':
-                  return Vt(25)
-                case 'WordPress':
-                  return Vt(26)
-                case 'Chinese':
-                  return Vt(27)
-                case 'Japanese':
-                  return Vt(28)
-                case 'Photography':
-                  return Vt(29)
+                  return Vt(9)
+                case 'Rust':
+                  return Vt(10)
+                case 'Haskell':
+                  return Vt(11)
+                case 'Plutus':
+                  return Vt(12)
+                case 'Git':
+                  return Vt(13)
+                case 'Amazon AWS':
+                  return Vt(14)
                 default:
                   return je('Unknown skill: ' + n)
               }
@@ -1915,9 +1885,9 @@
                   return Vt(3)
                 case 'Solana':
                   return Vt(4)
-                case 'Computer Science':
+                case 'Polkadot':
                   return Vt(5)
-                case 'Interactive Media':
+                case 'Polygon':
                   return Vt(6)
                 default:
                   return je('Unknown tag: ' + n)
@@ -8056,63 +8026,35 @@
               case 0:
                 return 'Solidity'
               case 1:
-                return 'JavaScript'
+                return 'React.js'
               case 2:
-                return 'JSON'
+                return 'Express.js'
               case 3:
-                return 'HTML'
+                return 'Node.js'
               case 4:
-                return 'CSS'
+                return 'MongoDB'
               case 5:
-                return 'Java'
+                return 'PostgreSQL'
               case 6:
-                return 'GLSL'
-              case 8:
-                return 'Flutter'
-              case 9:
-                return 'Dart'
-              case 7:
                 return 'Python'
-              case 10:
-                return 'Kotlin'
-              case 11:
-                return 'Android Studio'
-              case 12:
-                return 'MIPS'
-              case 13:
-                return 'C'
-              case 14:
-                return 'C++'
-              case 15:
+              case 7:
+                return 'Augmented Reality'
+              case 8:
                 return 'C#'
-              case 16:
-                return 'Linux'
-              case 17:
-                return 'XML'
-              case 18:
-                return 'Git'
-              case 19:
-                return 'Machine Learning'
-              case 20:
+              case 9:
                 return 'Unity'
-              case 21:
-                return 'Figma'
-              case 22:
-                return 'Adobe Xd'
-              case 23:
-                return 'Adobe Premiere'
-              case 24:
-                return 'Adobe Photoshop'
-              case 25:
-                return 'Adobe After Effects'
-              case 26:
-                return 'WordPress'
-              case 27:
-                return 'Chinese'
-              case 28:
-                return 'Japanese'
+              case 10:
+                return 'Rust'
+              case 11:
+                return 'Haskell'
+              case 12:
+                return 'Plutus'
+              case 13:
+                return 'Git'
+              case 14:
+                return 'Amazon AWS'
               default:
-                return 'Photography'
+                return 'C'
             }
           },
           jb = function (n) {
@@ -8161,9 +8103,9 @@
               case 4:
                 return 'Solana'
               case 5:
-                return 'Computer Science'
+                return 'Polkadot'
               default:
-                return 'Interactive Media'
+                return 'Polygon'
             }
           },
           Cb = function (n) {
@@ -9115,8 +9057,8 @@
                 o(
                   wd,
                   A([
-                    w('Computer Science', Gr(5)),
-                    w('Interactive Media', Gr(6))
+                    w('Polkadot', Gr(5)),
+                    w('Polygon', Gr(6))
                   ]),
                   n,
                   r
