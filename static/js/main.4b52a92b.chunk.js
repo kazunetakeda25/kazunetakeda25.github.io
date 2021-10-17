@@ -2799,7 +2799,7 @@
             a6: Ka('#2C2F36'),
             aO: Ka('#25282E'),
             an: Ka('#21252B'),
-            aP: Ka('#282C34'),
+            aP: Ka('#25282E'),
             b7: Ka('#00bc8c'),
             ex: Ka('#6610f2'),
             e4: Ka('#fd7e14'),
@@ -2978,7 +2978,7 @@
               d8: du.aP,
               ea: bu,
               e7: 16,
-              e8: 16,
+              e8: 8,
               cO: 2
             },
             { $7: Ya.an, dy: Ya.aO, d8: Ya.q }
@@ -3029,7 +3029,7 @@
             c$: ku,
             bs: 'https://fonts.googleapis.com/css?family=Noto+Sans'
           },
-          ju = { dY: du.a6, bW: du.ee, bX: 8, ck: 16, cl: 8 },
+          ju = { dY: du.a6, bW: du.ee, bX: 16, ck: 16, cl: 16 },
           Bu = {
             dc: (function (n) {
               return y(
