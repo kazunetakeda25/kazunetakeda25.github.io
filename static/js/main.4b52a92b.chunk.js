@@ -2926,7 +2926,7 @@
             bT: Ka('#17a2b8'),
             b5: Ka('#6c757d'),
             ed: Ka('#f8f9fa'),
-            ee: Ka('#e9ecef'),
+            ee: Ka('#25282E'),
             ef: Ka('#dee2e6'),
             b6: Ka('#ced4da'),
             eg: Ka('#adb5bd'),
@@ -2978,7 +2978,7 @@
               d8: du.aP,
               ea: bu,
               e7: 16,
-              e8: 8,
+              e8: 16,
               cO: 2
             },
             { $7: Ya.an, dy: Ya.aO, d8: Ya.q }
