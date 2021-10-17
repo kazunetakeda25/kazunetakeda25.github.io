@@ -1875,9 +1875,9 @@
                   return Vt(18)
                 case 'ML':
                   return Vt(19)
-                case 'Unity':
+                case 'Solidity':
                   return Vt(20)
-                case 'Figma':
+                case 'MERN Stacks':
                   return Vt(21)
                 case 'AdobeXd':
                   return Vt(22)
@@ -8094,9 +8094,9 @@
               case 19:
                 return 'Machine Learning'
               case 20:
-                return 'Unity'
+                return 'Solidity'
               case 21:
-                return 'Figma'
+                return 'MERN Stacks'
               case 22:
                 return 'Adobe Xd'
               case 23:

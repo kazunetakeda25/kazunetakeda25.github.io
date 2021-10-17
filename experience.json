@@ -42,12 +42,12 @@
         },
         {
             "position": "XR Feature Intern",
-            "organization": "Unity Technologies",
+            "organization": "Solidity Technologies",
             "location": "Bellevue, WA",
             "start time": "Jun 2020",
             "end time": "Sep 2020",
             "description": [
-                "Implemented and shipped samples with new augmented reality features in the Unity engine with C#",
+                "Implemented and shipped samples with new augmented reality features in the Solidity engine with C#",
                 "Integrated ARCore SDK features in C++ and implement runtime unit tests in AR Foundation",
                 "Participated in design reviews, code reviews, bug fixing, user forums, and feature planning"
             ],
@@ -59,9 +59,9 @@
             "skills": [
                 "CSharp",
                 "CPP",
-                "Unity"
+                "Solidity"
             ],
-            "link": "https://github.com/Unity-Technologies/arfoundation-samples",
+            "link": "https://github.com/Solidity-Technologies/arfoundation-samples",
             "logo": "assets/image/experience/employment/xr_intern.png"
         },
         {
@@ -71,7 +71,7 @@
             "start time": "Sep 2019",
             "end time": "Mar 2020",
             "description": [
-                "Maintained and modified Unity VR programmes in C# to examine racial bias in police officers",
+                "Maintained and modified Solidity VR programmes in C# to examine racial bias in police officers",
                 "Administered VR protocols to participants and monitor automatic research data collection",
                 "Streamlined pupil diameters in Java and XML for efficient big data evaluation on eye tracking"
             ],
@@ -83,7 +83,7 @@
             "skills": [
                 "Java",
                 "CSharp",
-                "Unity"
+                "Solidity"
             ],
             "link": "https://thebearslab.com",
             "logo": "assets/image/experience/employment/bears.png"
@@ -106,7 +106,7 @@
             ],
             "skills": [
                 "CSharp",
-                "Unity"
+                "Solidity"
             ],
             "link": "http://irafay.com/classes/CS181/",
             "logo": "assets/image/experience/employment/game_ta.png"
@@ -137,7 +137,7 @@
             "start time": "Jul 2019",
             "end time": "Jul 2019",
             "description": [
-                "Trained 21 young girls (12-18 years old) on game design and programming with Unity for 60 hours",
+                "Trained 21 young girls (12-18 years old) on game design and programming with Solidity for 60 hours",
                 "Supervised field trips and meetings with women game developers from PlayStation and Ubisoft"
             ],
             "tags": [
@@ -148,7 +148,7 @@
             ],
             "skills": [
                 "CSharp",
-                "Unity"
+                "Solidity"
             ],
             "link": "https://www.ktvu.com/news/417655378-video",
             "logo": "assets/image/experience/employment/gmg.png"
@@ -182,7 +182,7 @@
             "end time": "May 2019",
             "description": [
                 "Researched, analyzed, and promoted Chinese films and filmmakers internationally",
-                "Administered WeChat platform to foster a community for more than 2000 subscribers"
+                "Administered WeChat platform to foster a commSolidity for more than 2000 subscribers"
             ],
             "tags": [
                 "Past",
@@ -253,7 +253,7 @@
             "skills": [
                 "Flutter",
                 "Dart",
-                "Figma"
+                "MERN Stacks"
             ],
             "tags": [
                 "Past",
@@ -292,13 +292,13 @@
             "start time": "Aug 2020",
             "end time": "Oct 2020",
             "description": [
-                "Prototyped an AR mobile app for self-touring college campus with Unity AR Foundation in C#",
+                "Prototyped an AR mobile app for self-touring college campus with Solidity AR Foundation in C#",
                 "Implemented Image Tracking and prefab matching features upon internship contributions",
                 "Created easily scalable content structure and customized Inspector UI for intuitive user input"
             ],
             "skills": [
                 "CSharp",
-                "Unity",
+                "Solidity",
                 "Git"
             ],
             "tags": [
@@ -366,11 +366,11 @@
             "end time": "Dec 2019",
             "description": [
                 "Created a 10-min interactive virtual reality documentary with 360-degree camera",
-                "Interviewed 7 staffs and students and implemented headset tracking in Unity"
+                "Interviewed 7 staffs and students and implemented headset tracking in Solidity"
             ],
             "skills": [
                 "CSharp",
-                "Unity",
+                "Solidity",
                 "AdobePr"
             ],
             "tags": [
@@ -507,7 +507,7 @@
     ],
     "activities": [
         {
-            "position": "Network and Community Team Member",
+            "position": "Network and CommSolidity Team Member",
             "organization": "Computer Science Society at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Feb 2019",
@@ -545,7 +545,7 @@
                 "Java",
                 "JavaScript"
             ],
-            "link": "https://developers.google.com/community/dsc/",
+            "link": "https://developers.google.com/commSolidity/dsc/",
             "logo": "assets/image/experience/activities/gdsc.png"
         },
         {
