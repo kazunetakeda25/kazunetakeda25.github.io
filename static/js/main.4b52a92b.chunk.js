@@ -9379,9 +9379,57 @@
                         Rs,
                         A([js(10)]),
                         A([
-                          Sd(
-                            'Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Solana, Cardano, Polkadot, and Polygon.'
-                          )
+                          Sd('Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including '),
+                          c(
+                            Md,
+                            c(
+                              Jr,
+                              Ti(o(Mf, 224, 108, 117)),
+                              c(Jr, Yf(Ga(16 * e)), Bd)
+                            ),
+                            Sd('Ethereum')
+                          ),
+                          Sd(', '),
+                          c(
+                            Md,
+                            c(
+                              Jr,
+                              Ti(o(Mf, 224, 108, 117)),
+                              c(Jr, Yf(Ga(16 * e)), Bd)
+                            ),
+                            Sd('Cardano')
+                          ),
+                          Sd(', '),
+                          c(
+                            Md,
+                            c(
+                              Jr,
+                              Ti(o(Mf, 224, 108, 117)),
+                              c(Jr, Yf(Ga(16 * e)), Bd)
+                            ),
+                            Sd('Solana')
+                          ),
+                          Sd(', '),
+                          c(
+                            Md,
+                            c(
+                              Jr,
+                              Ti(o(Mf, 224, 108, 117)),
+                              c(Jr, Yf(Ga(16 * e)), Bd)
+                            ),
+                            Sd('Polkadot')
+                          ),
+                          Sd(', and '),
+                          c(
+                            Md,
+                            c(
+                              Jr,
+                              Ti(o(Mf, 224, 108, 117)),
+                              c(Jr, Yf(Ga(16 * e)), Bd)
+                            ),
+                            Sd('Polygon')
+                          ),
+                          Sd('.')
                         ])
                       ),
                   ])
@@ -9393,7 +9441,7 @@
                     Pf,
                     c(Jr, Ti(o(Mf, 224, 108, 117)), c(Jr, Yf(Ga(16 * e)), Bd))
                   ),
-                  A([Sd('Log updated: Feb.5, 2021')])
+                  A([Sd('Log updated at: Feb 5 2021')])
                 )
               ])
             )
