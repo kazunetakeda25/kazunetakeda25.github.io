@@ -9290,7 +9290,7 @@
               A([
                 gf(Af),
                 bf(Af),
-                Vi(f(ps, 191, 157, 201, 0.15)),
+                Vi(f(ps, 33, 33, 67, 1)),
                 c(hs, Ga(70 * t), Ga(80 * t)),
                 js(Ga(50 * t))
               ]),
@@ -9480,7 +9480,7 @@
                     gc(t)
                   )
                 )
-              })({ bH: 10, bR: o(Mf, 44, 47, 54), cs: w(8, 8), fy: 10 })
+              })({ bH: 0, bR: o(Mf, 0, 0, 0), cs: w(0, 0), fy: 0 })
             ]),
             A([Jd, Hd])
           ),
@@ -10086,7 +10086,7 @@
                 A([
                   c(Ns, A([bf(Cf(25)), _b(cv(0)), Fb]), {
                     bV: 'logo',
-                    cQ: 'assets/image/home/logo-transparent.png'
+                    cQ: 'assets/image/home/logo-inverted.png'
                   })
                 ])
               )
