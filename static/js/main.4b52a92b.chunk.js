@@ -3029,7 +3029,7 @@
             c$: ku,
             bs: 'https://fonts.googleapis.com/css?family=Noto+Sans'
           },
-          ju = { dY: du.a6, bW: du.ee, bX: 16, ck: 16, cl: 16 },
+          ju = { dY: du.a6, bW: du.ee, bX: 8, ck: 16, cl: 8 },
           Bu = {
             dc: (function (n) {
               return y(
