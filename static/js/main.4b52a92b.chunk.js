@@ -10058,6 +10058,24 @@
           Jv = t(function (n, r) {
             var t,
               e = { d_: n.aa, Y: n.Y },
+            //   a = c(
+            //     qs,
+            //     z,
+            //     A([
+            //       c(Ns, A([bf(Cf(25)), _b(cv(0)), Fb]), {
+            //         bV: 'logo',
+            //         cQ: 'assets/image/home/logo-inverted.png'
+            //       })
+            //     ])
+            //     // o(
+            //     //     Hv,
+            //     //     '',
+            //     //     As(function () {
+            //     //       return 'request access to: '
+            //     //     }),
+            //     //     sv(wi)
+            //     //   ),
+            //   ),
               u = o(Hv, '', dv('Home'), sv(cv(0))),
               i = o(Hv, '', dv('Experience'), sv(cv(2))),
               f = o(Hv, '', dv('Education'), sv(cv(1))),
@@ -10084,16 +10102,25 @@
                   A([Zd, gs]),
                   c(
                     Ev,
-                    A([u, f, i]),
+                    // c(
+                    //   Av,
+                    //   7,
+                    //   c(
+                    //     Cv,
+                    //     a,
+                    //     ((t = ov), { aB: z, $7: lv(6), aD: Fr, aS: z, bq: t })
+                    //   )
+                    // ),
                     c(
-                      Av,
-                      7,
-                      c(
-                        Cv,
-                        l,
-                        ((t = ov), { aB: z, $7: lv(6), aD: Fr, aS: z, bq: t })
-                      )
-                    )
+                        Av,
+                        7,
+                        c(
+                          Cv,
+                          l,
+                          ((t = ov), { aB: z, $7: lv(6), aD: Fr, aS: z, bq: t })
+                        )
+                      ),
+                    A([u, f, i])
                   )
                 )
               )
