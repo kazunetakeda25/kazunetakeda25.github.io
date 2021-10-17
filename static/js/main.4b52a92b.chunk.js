@@ -8864,7 +8864,7 @@
                     )
                   },
                   A([
-                    w('Employment', 0),
+                    w('Work History', 0),
                     w('Projects', 1),
                     w('Activities', 2),
                     w('Blogs', 3)
