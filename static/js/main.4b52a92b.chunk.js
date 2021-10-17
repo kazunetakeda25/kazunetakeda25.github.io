@@ -2114,13 +2114,18 @@
           ),
           Ne = o(
             Me,
-            'activities',
-            He(Le),
+            'blogs',
+            He(Ie),
             o(
               Me,
-              'projects',
-              He(Ie),
-              o(Me, 'employment', He(Le), o(Me, 'education', He(Se), Vt(ye)))
+              'activities',
+              He(Le),
+              o(
+                Me,
+                'projects',
+                He(Ie),
+                o(Me, 'employment', He(Le), o(Me, 'education', He(Se), Vt(ye)))
+              )
             )
           ),
           Ve = function (n) {
@@ -8862,7 +8867,7 @@
                     w('Employment', 0),
                     w('Projects', 1),
                     w('Activities', 2),
-                    w('Just Games', 3)
+                    w('Blogs', 3)
                   ])
                 )
               )
