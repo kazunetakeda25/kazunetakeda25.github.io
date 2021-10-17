@@ -10,7 +10,36 @@
         }
     ],
     "employment": [
-        
+        {
+            "position": "Blockchain Developer",
+            "organization": "UPWORK INC.",
+            "location": "San Francisco, CA, United States",
+            "start time": "Aug 2017",
+            "end time": "Jul 2020",
+            "description": [
+                "✓ Area of Participants",
+                "  - Sealed-Bid Auction (Ethereum, Polygon)",
+                "  - KingCash.io",
+                "  - Ethermine Bot, Eth Pool",
+                "  - BitCash Payment Integration",
+                "  - Krypto",
+                "  - Online Casino Bustabit",
+                "  - Chain Flyer Blockchain Explorer"
+            ],
+            "tags": [
+                "Past",
+                "Cryptocurrency",
+                "Smart Contracts", 
+                "Ethereum", 
+                "Bitcoin"
+            ],
+            "skills": [
+                "Solidity",
+                "MERN Stacks"
+            ],
+            "link": "https://www.upwork.com/freelancers/~01f3ecc44283d7a141?viewMode=1",
+            "logo": "assets/image/experience/employment/upwork.png"
+        },
         {
             "position": "XR Feature Intern",
             "organization": "Unity Technologies",
