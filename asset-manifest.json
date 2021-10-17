@@ -11,7 +11,7 @@
   "assets/font/LetterGothicStd-BoldSlanted.otf": "/assets/font/LetterGothicStd-BoldSlanted.otf",
   "assets/font/LetterGothicStd-Slanted.otf": "/assets/font/LetterGothicStd-Slanted.otf",
   "assets/font/LetterGothicStd.otf": "/assets/font/LetterGothicStd.otf",
-  "assets/font/FS NokioMedium.ttf": "/assets/font/FS NokioMedium.ttf",
+  "assets/font/kabel.otf": "/assets/font/kabel.otf",
   "assets/image/experience/.DS_Store": "/assets/image/experience/.DS_Store",
   "assets/image/experience/activities/5c_film_conference.png": "/assets/image/experience/activities/5c_film_conference.png",
   "assets/image/experience/activities/aculac.png": "/assets/image/experience/activities/aculac.png",
@@ -67,6 +67,7 @@
   "assets/image/home/code intro portrait@2x.png": "/assets/image/home/code intro portrait@2x.png",
   "assets/image/home/logo.png": "/assets/image/home/logo.png",
   "assets/image/home/name.png": "/assets/image/home/name.png",
+  "assets/image/home/name.png": "/assets/image/home/name.png",
   "assets/image/home/tab@2x.png": "/assets/image/home/tab@2x.png",
   "experience.json": "/experience.json",
   "favicon.ico": "/favicon.ico",
@@ -74,5 +75,5 @@
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
   "precache-manifest.b04be19f66f2cc44f91f0ea5633b064a.js": "/precache-manifest.b04be19f66f2cc44f91f0ea5633b064a.js",
-  "static/media/main.css": "/static/media/FS NokioMedium.9b57dfa0.ttf"
+  "static/media/main.css": "/static/media/kabel.9b57dfa0.otf"
 }

@@ -17,7 +17,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b7ed399ef1e96f31eafafade6c426c51",
-    "url": "/assets/font/FS NokioMedium.ttf"
+    "url": "/assets/font/kabel.otf"
   },
   {
     "revision": "0e424d009d07e6603bfd3841761e0659",
@@ -257,6 +257,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b7ed399ef1e96f31eafafade6c426c51",
-    "url": "/static/media/FS NokioMedium.9b57dfa0.ttf"
+    "url": "/static/media/kabel.9b57dfa0.otf"
   }
 ]);
