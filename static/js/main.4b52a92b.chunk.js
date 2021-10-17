@@ -9316,7 +9316,7 @@
                       Rs,
                       A([js(10)]),
                       A([
-                        Sd('A Smart Contract Developer from Japan.'),
+                        Sd('A '),
                         c(
                           Md,
                           c(
@@ -9343,12 +9343,12 @@
                       Rs,
                       c(
                         Jr,
-                        Yf(Ga(13 * e)),
-                        c(Jr, Ed, c(Jr, Ti(o(Mf, 224, 108, 117)), Bd))
+                        Ti(o(Mf, 224, 108, 117)),
+                        c(Jr, Yf(Ga(16 * e)), Bd)
                       ),
                       A([
                         Sd(
-                          '(That\u2019s exactly why some texts are red. No, wait, my computer is just silver this year.)'
+                          'Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals.'
                         )
                       ])
                     ),
