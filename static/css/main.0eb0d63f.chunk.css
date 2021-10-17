@@ -13,6 +13,7 @@ pre > code {
 }
 .nb.e > .wf {
   padding: 20px 60px 20px 60px;
+  box-shadow: 0px 0px 16px 8px rgb(0 0 0 / 10%);
 }
 img.height-px-25px {
     height: 40px;
@@ -31,4 +32,7 @@ img.height-px-25px {
 }
 .b-0.bg-0-0-0-0 {
     background-color: rgb(33 33 67);
+}
+.hf.box-0px0px0px0px0-0-0-255 {
+    box-shadow: 0px 0px 16px 8px rgb(0 0 0 / 10%);
 }
