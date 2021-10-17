@@ -9358,80 +9358,82 @@
                       ])
                     ),
                     c(
-                        Rs,
-                        A([js(10)]),
-                        A([
-                          Sd(
-                            'Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures.'
-                          )
-                        ])
-                      ),
-                      c(
-                        Rs,
-                        A([js(10)]),
-                        A([
-                          Sd(
-                            'Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology.'
-                          )
-                        ])
-                      ),
-                      c(
-                        Rs,
-                        A([js(10)]),
-                        A([
-                          Sd('Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including '),
+                      Rs,
+                      A([js(10)]),
+                      A([
+                        Sd(
+                          'Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures.'
+                        )
+                      ])
+                    ),
+                    c(
+                      Rs,
+                      A([js(10)]),
+                      A([
+                        Sd(
+                          'Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology.'
+                        )
+                      ])
+                    ),
+                    c(
+                      Rs,
+                      A([js(10)]),
+                      A([
+                        Sd(
+                          'Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including '
+                        ),
+                        c(
+                          Md,
                           c(
-                            Md,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            Sd('Ethereum')
+                            Jr,
+                            Ti(o(Mf, 224, 108, 117)),
+                            c(Jr, Yf(Ga(16 * e)), Bd)
                           ),
-                          Sd(', '),
+                          Sd('Ethereum')
+                        ),
+                        Sd(', '),
+                        c(
+                          Md,
                           c(
-                            Md,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            Sd('Cardano')
+                            Jr,
+                            Ti(o(Mf, 224, 108, 117)),
+                            c(Jr, Yf(Ga(16 * e)), Bd)
                           ),
-                          Sd(', '),
+                          Sd('Cardano')
+                        ),
+                        Sd(', '),
+                        c(
+                          Md,
                           c(
-                            Md,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            Sd('Solana')
+                            Jr,
+                            Ti(o(Mf, 224, 108, 117)),
+                            c(Jr, Yf(Ga(16 * e)), Bd)
                           ),
-                          Sd(', '),
+                          Sd('Solana')
+                        ),
+                        Sd(', '),
+                        c(
+                          Md,
                           c(
-                            Md,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            Sd('Polkadot')
+                            Jr,
+                            Ti(o(Mf, 224, 108, 117)),
+                            c(Jr, Yf(Ga(16 * e)), Bd)
                           ),
-                          Sd(', and '),
+                          Sd('Polkadot')
+                        ),
+                        Sd(', and '),
+                        c(
+                          Md,
                           c(
-                            Md,
-                            c(
-                              Jr,
-                              Ti(o(Mf, 224, 108, 117)),
-                              c(Jr, Yf(Ga(16 * e)), Bd)
-                            ),
-                            Sd('Polygon')
+                            Jr,
+                            Ti(o(Mf, 224, 108, 117)),
+                            c(Jr, Yf(Ga(16 * e)), Bd)
                           ),
-                          Sd('.')
-                        ])
-                      ),
+                          Sd('Polygon')
+                        ),
+                        Sd('.')
+                      ])
+                    )
                   ])
                 ),
                 c(
@@ -10065,6 +10067,14 @@
                     cQ: 'assets/image/home/logo-inverted.png'
                   })
                 ])
+                // o(
+                //     Hv,
+                //     '',
+                //     As(function () {
+                //       return 'request access to: '
+                //     }),
+                //     sv(wi)
+                //   ),
               ),
               u = o(Hv, '', dv('Home'), sv(cv(0))),
               i = o(Hv, '', dv('Experience'), sv(cv(2))),
@@ -10092,7 +10102,16 @@
                   A([Zd, gs]),
                   c(
                     Ev,
-                    A([a, u, f, i]),
+                    c(
+                      Av,
+                      7,
+                      c(
+                        Cv,
+                        a,
+                        ((t = ov), { aB: z, $7: lv(6), aD: Fr, aS: z, bq: t })
+                      )
+                    ),
+                    A([u, f, i]),
                     c(
                       Av,
                       7,
