@@ -45,3 +45,10 @@ img[alt="huamn intro window tab"] {
     -o-user-drag: none;
     user-drag: none;
 }
+.hc.cptr.br-4 {
+    border-radius: 0;
+    margin-left: -2px;
+}
+.hc.pad-0-0-0-30.ccy {
+    padding: 0 !important;
+}
