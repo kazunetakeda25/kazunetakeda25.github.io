@@ -1883,7 +1883,7 @@
                   return Vt(22)
                 case 'AdobePr':
                   return Vt(23)
-                case 'AdobePs':
+                case 'Cryptocurrency':
                   return Vt(24)
                 case 'AdobeAe':
                   return Vt(25)
