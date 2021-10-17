@@ -9010,19 +9010,19 @@
                 tl(function () {
                   return c(il, z, {
                     be: Fl(rl),
-                    bs: 'mailto:jiang25s@mtholyoke.edu'
+                    bs: 'mailto:kazune.takeda@yahoo.com'
                   })
                 }),
                 tl(function () {
                   return c(fl, z, {
                     be: Fl(cl),
-                    bs: 'https://www.linkedin.com/in/shan-jiang25s/'
+                    bs: 'https://www.linkedin.com/in/kazunetakeda25/'
                   })
                 }),
                 tl(function () {
                   return c(fl, z, {
                     be: Fl(el),
-                    bs: 'https://github.com/SHELLEYJ32'
+                    bs: 'https://github.com/kazunetakeda25'
                   })
                 })
               ])
@@ -9202,19 +9202,19 @@
                 tl(function () {
                   return c(il, z, {
                     be: Fl(rl),
-                    bs: 'mailto:jiang25s@mtholyoke.edu'
+                    bs: 'mailto:kazune.takeda@yahoo.com'
                   })
                 }),
                 tl(function () {
                   return c(fl, z, {
                     be: Fl(cl),
-                    bs: 'https://www.linkedin.com/in/shan-jiang25s/'
+                    bs: 'https://www.linkedin.com/in/kazunetakeda25/'
                   })
                 }),
                 tl(function () {
                   return c(fl, z, {
                     be: Fl(el),
-                    bs: 'https://github.com/SHELLEYJ32'
+                    bs: 'https://github.com/kazunetakeda25'
                   })
                 })
               ])
